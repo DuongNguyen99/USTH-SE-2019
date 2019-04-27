@@ -10,4 +10,6 @@ https://docs.google.com/spreadsheets/d/1hEnIT3HrMlHvfNIApp7-WroqWzYDbisBFx0uOqV_
 Learn basics of Git (many other materials online)
 http://rogerdudler.github.io/git-guide/
 
-Product of Group 4: https://ngocdo4299.github.io/index.html
+Product of Group 4: https://ngocdo4299.github.io/
+
+
